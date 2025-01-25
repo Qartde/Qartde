@@ -50,6 +50,9 @@ Fork the Repo
 
 ##
 
+5. 👍If You don't have a account in Render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 <br>
@@ -60,6 +63,10 @@ Fork the Repo
 9. If You don't have a account in Railway. Create a account.
     <br>
 <a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
+
+6. 👉Now Deploy on render
+    <br>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 10. Now Deploy railway
     <br>
