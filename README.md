@@ -88,8 +88,8 @@
 Enjoy the diverse features of RAHMANI_MD  to enhance your Whatsapp more enjoyable
 
 
-### Credits to:
-- [FortunaMokaya](https://github.com/Fortunatusmokaya) for the founder of this bot's base
+### Credits to:RAHMANI_MD
+    THANK YOU FOR CHOOSING RAHMANI MD 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ★THANK YOU GOD FOR THAT MOMENT🙏.
