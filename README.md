@@ -92,3 +92,4 @@ Enjoy the diverse features of RAHMANI_MD  to enhance your Whatsapp more enjoyabl
 - [FortunaMokaya](https://github.com/Fortunatusmokaya) for the founder of this bot's base
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+★THANK YOU GOD FOR THAT MOMENT🙏.
