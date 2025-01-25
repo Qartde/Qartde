@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> RAHMANI_MD </h1>
+<h1 align="center"> 𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝑹𝑨𝑯𝑴𝑨𝑵𝑰+𝑴𝑫;CREATED+BY+𝑹𝑨𝑯𝑴𝑨𝑵𝑰;Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
@@ -11,7 +11,7 @@
 
    [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r">
- <img alt="𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫" height="500" src="https://files.catbox.moe/aktbgo.jpg">
+ <img alt="𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗" height="500" src="https://files.catbox.moe/aktbgo.jpg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)                
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -85,10 +85,10 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-Enjoy the diverse features of RAHMANI_MD  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of 𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗  to enhance your Whatsapp more enjoyable
 
 
-### Credits to:RAHMANI_MD
+### Credits to:𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗
     THANK YOU FOR CHOOSING RAHMANI MD 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
