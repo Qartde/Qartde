@@ -41,8 +41,7 @@
 
    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 
-**2. Deploy To Heroku**       
-   <a href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/Rahmani-Md/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+**2. Deploy To Heroku**        <a href='https://dashboard.heroku.com/new?template=https://github.com/Qartde/Rahmani-Md/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 ##
@@ -55,22 +54,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
-𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Rahmani/RAHMANI_MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+
   
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
 
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
