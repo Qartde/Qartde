@@ -2,7 +2,7 @@
 <h1 align="center"> RAHMANI_MD </h1>
 
  
-<h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+<h1 align="center"> DO SOMETHING TODAY FOR A BETTER TOMORROW 👊👊
 </h1>
 
 
