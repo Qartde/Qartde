@@ -33,8 +33,6 @@
 ## 2.Get your session ID here
  
 <a href='https://samsung-ls3s.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
- 
-  <a href="https://https://keithmd.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 **1. If you dont have Heroku account**
