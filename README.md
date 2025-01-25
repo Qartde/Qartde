@@ -30,9 +30,10 @@
 <a href="https://github.com/Rahmani/RAHMANI_MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK KEITH" width="150"></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
+## 2.Get your session ID here
+ 
+<a href='https://samsung-ls3s.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=pink'/></a>
+ 
   <a href="https://https://keithmd.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
