@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝑹𝑨𝑯𝑴𝑨𝑵𝑰+𝑴𝑫;CREATED+BY+𝑹𝑨𝑯𝑴𝑨𝑵𝑰;Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
-<h1 align="center"> DO SOMETHING TODAY FOR A BETTER TOMORROW 👊👊
+<h1 align="center"> Do something today for a better tomorrow 👊👊
 </h1>
 
 
