@@ -113,6 +113,7 @@ Fork the Repo
 
 Enjoy the diverse features of 𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗  to enhance your Whatsapp more enjoyable
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝑹𝑨𝑯𝑴𝑨𝑵𝑰+𝑴𝑫;CREATED+BY+𝑹𝑨𝑯𝑴𝑨𝑵𝑰;Always+Rahmani" alt="Typing SVG" /></a>
 
 ### Credits to:𝗥𝗔𝗛𝗠𝗔𝗡𝗜_𝗠𝗗
     THANK YOU FOR CHOOSING RAHMANI MD 
